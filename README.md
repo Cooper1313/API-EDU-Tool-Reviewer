@@ -73,16 +73,16 @@ During my experiance as an intern in higher education, I have seen how much time
 This tool runs entirely within a Google Doc. Follow these steps to set it up in your own Google account.
 
 **Prerequisites:**
-*   You must have an API key from an AI provider like OpenAI.
+*   You must have an API key from an AI provider like OpenAI. If you wanted to switch it out with a different providor, its pretty simple to change the information in the code.
 
 **1. Create the "Script Runner" Google Doc**
-*   Create a new, blank Google Doc. This document's only purpose is to host the script and provide the menu. You can name it "AI Tool Reviewer."
+*   Create a new, blank Google Doc. This document's only purpose is to host the script and provide the menu. You can name it whatever you like. 
 
 **2. Copy the Script Files**
 *   Open the Apps Script editor by going to `Extensions > Apps Script`.
-*   You will see a default `Code.gs` file. Rename it to `main.gs` and paste the code from the `main.gs` file in this repository.
+*   Once Apps Script is loaded in a new environment, you will see a default `Code.gs` file. Rename it to `main.gs` and paste the code from the `main.gs` file in this repository.
 *   Click the `+` icon to add new script files. Create a file for each of the following and paste the corresponding code from this repository into each one:
-    *   `Api.gs`
+    *   `API.gs`
     *   `config.gs`
     *   `template_fields.gs`
     *   `template_utils.gs`
@@ -200,7 +200,7 @@ References
 
 ### The Master Prompt
 
-The core logic of this tool is powered by a single, comprehensive master prompt. This demonstrates the power of prompt engineering to achieve structured and reliable output from an AI.
+The core logic of this tool is powered by a single, comprehensive master prompt. This demonstrates the power of prompt engineering to achieve structured and reliable output from an AI. Remember, the key is being as specific as possible when requesting an LLM to complete a task for you. Reinforcing is also reccomended when having long complex prompts like this due to memory. 
 
 <details>
 <summary>Click to expand and see the full master prompt</summary>
