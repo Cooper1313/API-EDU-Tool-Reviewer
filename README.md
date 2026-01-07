@@ -53,10 +53,10 @@ During my experiance as an intern in higher education, I have seen how much time
 
 ### Features
 
-*   **One-Click Generation:** Run the entire review process from a simple menu item in Google Docs.
+*   **Automated Generation:** Run the entire review process from a simple menu item in Google Docs.
 *   **Context-Aware Analysis:** Prompts the user for their institution to generate a review that is tailored and relevant.
-*   **Sophisticated AI Prompting:** Utilizes a detailed, structured master prompt to ensure high-quality, consistent output from the AI.
-*   **Dynamic Document Creation:** Automatically generates a new, cleanly formatted Google Doc for each review based on a customizable template.
+*   **AI Prompt Engineering:** Utilizes a detailed, structured master prompt to ensure high-quality, consistent output from the AI.
+*   **Document Creation:** Automatically generates a new, cleanly formatted Google Doc for each review based on a customizable template.
 *   **Zero Dependencies:** Runs entirely within the Google Workspace ecosystem with no external libraries required.
 
 ### Technology Stack
