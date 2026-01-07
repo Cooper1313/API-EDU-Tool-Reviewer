@@ -7,6 +7,45 @@ An AI-powered tool for Google Docs that automates the creation of comprehensive 
 
 ### Demo
 
+This tool transforms a simple menu click into a comprehensive, formatted review document. The screenshot below shows an example of the final, automatically generated output.
+
+<p align="center">
+  <img src="./images/Final Tool Review Template.png" alt="Example of a final generated review" width="600"/>
+</p>
+
+### Step-by-Step Walkthrough
+
+<details>
+<summary>Click to see the full process from start to finish</summary>
+
+The entire workflow is managed through a series of simple dialogs within Google Docs.
+
+**1. Run from the Menu**
+<br>
+<img src="./images/tool review button in google docs.png" alt="Step 1: Menu" width="500"/>
+
+**2. Enter the Tool Name**
+<br>
+<img src="./images/name of tool being reviewed in tool review.png" alt="Step 2: Tool Name Prompt" width="500"/>
+
+**3. Provide Your Institution**
+<br>
+<img src="./images/name of institution for tool review.png" alt="Step 3: Institution Prompt" width="500"/>
+
+**4. The Script Goes to Work**
+<br>
+<img src="./images/geenrating tool review .png" alt="Step 4: Generating Dialog" width="500"/>
+
+**5. Success! The Link is Provided**
+<br>
+<img src="./images/Tool Review Created.png" alt="Step 5: Success Dialog" width="500"/>
+
+**6. The Final Document is Ready**
+<br>
+<img src="./images/Final Tool Review Template.png" alt="Step 6: The Final Document" width="500"/>
+
+</details>
+
 
 ### Why I Built This
 
