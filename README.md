@@ -49,7 +49,7 @@ The entire workflow is managed through a series of simple dialogs within Google 
 
 ### Why I Built This
 
-During my experiance as an intern in higher education, I have seen how much time and effort goes into evaluating new educational technologies. The process involves extensive research, testing, and documentation. I developed this tool to create an efficient workflow, allowing educators and instructional designers to generate a comprehensive, well-formatted first draft of a review in under two minutes, freeing them up to focus on higher-level.
+During my experiance as an intern in higher education, I have seen how much time and effort goes into evaluating new educational technologies. The process involves extensive research, testing, and documentation. I developed this tool to create an efficient workflow, allowing educators and institutions to generate a comprehensive, well-formatted first draft of a review in under two minutes, freeing them up to focus on higher level analysis.
 
 ### Features
 
