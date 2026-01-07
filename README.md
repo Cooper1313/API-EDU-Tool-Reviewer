@@ -3,11 +3,11 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Built with: Google Apps Script](https://img.shields.io/badge/Built_with-Google_Apps_Script-orange.svg)
 
-An AI-powered tool for Google Docs that automates the creation of comprehensive educational technology reviews.
+An AI-powered tool using Google Apps Script and Google Docs that automates the educational technology review process.
 
 ### Demo
 
-This tool transforms a simple menu click into a comprehensive, formatted review document. The screenshot below shows an example of the final, automatically generated output.
+This tool transforms a complex and lengthy process into a simple two step comprehensive, formatted review document. The screenshot below shows an example of the final automaticly generated output.
 
 <p align="center">
   <img src="./images/Final Tool Review Template.png" alt="Example of a final generated review" width="600"/>
