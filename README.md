@@ -317,7 +317,7 @@ For each source, specify:
 
 ---
 
-## REMEMBER: AI is known to have many biases and false information at times, due to this it is important to read through and double check all output provided by this tool. Do not rely 100% on the output generated, I am not responsible for any false information.
+## REMEMBER: AI is known to have many biases and false information, due to this it is important to read through and double check all output provided by this tool. Do not rely 100% on the output generated, I am not responsible for any false information.
 
 ### License
 
