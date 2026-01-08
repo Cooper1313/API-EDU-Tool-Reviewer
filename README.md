@@ -49,7 +49,7 @@ The entire workflow is managed through a series of simple dialogs within Google 
 
 ### Why I Built This
 
-During my experiance in higher education, I have seen how much time and effort goes into evaluating new educational technologies. The process involves extensive research, testing, and documentation. I started this project to create an efficient workflow, allowing educators, institutions, or anyone interested to generate a comprehensive, well-formatted first draft of a review in under two minutes, freeing them up to focus on higher level analysis.
+During my experiance in higher education, I have seen how much time and effort goes into evaluating new educational technologies. The process involves extensive research, testing, and documentation. I started this project to create an efficient workflow, allowing educators, institutions, or anyone interested to generate a comprehensive, well-formatted first draft of a review in under two minutes, freeing them up to focus on higher level analysis. I also enjoy working in Apps Script and think the development process and automation is really interesting! 
 
 ### Features
 
