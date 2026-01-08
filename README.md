@@ -1,4 +1,4 @@
-# API Tool-Review for Ed Tech
+# Automated API Tool-Review for Ed Tech
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Built with: Google Apps Script](https://img.shields.io/badge/Built_with-Google_Apps_Script-orange.svg)
@@ -316,6 +316,8 @@ For each source, specify:
 </details>
 
 ---
+
+# REMEMBER: AI is known to have many biases and false information at times, due to this it is important to read through and double check all output provided by this tool. Do not rely 100% on the output generated, I am not responsible for any false information.
 
 ### License
 
