@@ -49,7 +49,7 @@ The entire workflow is managed through a series of simple dialogs within Google 
 
 ### Why I Built This
 
-During my experiance as an intern in higher education, I have seen how much time and effort goes into evaluating new educational technologies. The process involves extensive research, testing, and documentation. I developed this tool to create an efficient workflow, allowing educators and institutions to generate a comprehensive, well-formatted first draft of a review in under two minutes, freeing them up to focus on higher level analysis.
+During my experiance in higher education, I have seen how much time and effort goes into evaluating new educational technologies. The process involves extensive research, testing, and documentation. I started this project to create an efficient workflow, allowing educators, institutions, or anyone interested to generate a comprehensive, well-formatted first draft of a review in under two minutes, freeing them up to focus on higher level analysis.
 
 ### Features
 
@@ -73,7 +73,7 @@ During my experiance as an intern in higher education, I have seen how much time
 This tool runs entirely within a Google Doc. Follow these steps to set it up in your own Google account.
 
 **Prerequisites:**
-*   You must have an API key from an AI provider like OpenAI. If you wanted to switch it out with a different providor, its pretty simple to change the information in the code.
+*   For this specific version, you need to have an API key from an AI provider like OpenAI. If you wanted to switch it out with a different providor, its pretty simple to change the information in the code, this can be done from previous knowledge or just by searching for a tutorial, there are tons for Apps Script specifically and API key source code. 
 
 **1. Create the "Script Runner" Google Doc**
 *   Create a new, blank Google Doc. This document's only purpose is to host the script and provide the menu. You can name it whatever you like. 
