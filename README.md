@@ -53,13 +53,13 @@ During my experiance in higher education, I have seen how much time and effort g
 
 ### Features
 
-*   **Automated Generation:** Run the entire review process from a simple menu item in Google Docs.
+*   **Automated Generation:** Run the entire review process from the click of a button in Google Docs.
 *   **Context-Aware Analysis:** Prompts the user for their institution to generate a review that is tailored and relevant.
-*   **AI Prompt Engineering:** Utilizes a detailed, structured master prompt to ensure high-quality, consistent output from the AI.
+*   **AI Prompt Engineering:** Utilizes a detailed, structured prompt to ensure high-quality, consistent output from the AI.
 *   **Document Creation:** Automatically generates a new, cleanly formatted Google Doc for each review based on a customizable template.
 *   **Zero Dependencies:** Runs entirely within the Google Workspace ecosystem with no external libraries required.
 
-### Technology Stack
+### Stack
 
 *   **Google Apps Script**
 *   **JavaScript (ES6)**
